@@ -1,0 +1,19 @@
+{
+  "name": "binary-gap",
+  "version": "1.0.1",
+  "description": "Get binary gap for given input",
+  "homepage": "https://github.com/MasterIsuru/binary-gap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterIsuru/binary-gap.git"
+  },
+  "main": "src/index.js",
+  "author": "MasterIsuru",
+  "keywords": [
+    "binaryGap",
+    "binary-gap",
+    "mathematics",
+    "nodejs"
+  ],
+  "license": "MIT"
+}
